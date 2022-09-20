@@ -1,0 +1,38 @@
+/* .banner-container .container{
+    display: flex;
+} */
+.left button a{
+    color: white;
+    text-decoration: none;
+}
+.second{
+    margin-left: 25%;
+}
+/* .banner-container{
+    display: flex; */
+}
+b{
+    color: blue;
+}
+.forthpage{
+background-image: url(./images/lum\ pic5.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+color: black;
+
+}
+a{
+    text-decoration: none;
+}
+#wat{
+    text-align: left;
+    
+    
+}
+#wat{
+    position: sticky;
+    top:100px;
+}
+.container:hover{
+    background-color: lightblue;
+}

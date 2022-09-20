@@ -1,0 +1,47 @@
+body{
+    background-color: cadetblue;
+}
+.navbar-brand  img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+}
+.collapse{
+    margin-left: 700px;
+}
+.left{
+    color: white;
+    font-size: xx-large;
+    width: 50%;
+    height: 300px;
+    padding: 50px;
+}
+.right{
+    width: 50%;
+    height: 300px;
+}
+.container{
+    width: 800px;
+    height: 500px;
+    
+}
+#navbar-example2{
+    position: sticky;
+    top: 0px;
+}
+div h1{
+    color:green;
+}
+div .comp {
+    justify-content: space-between;
+}
+h4 .card{
+    transition: .5s ease-out;
+}
+
+h4 .card:hover{
+    transform: scale(1.1)rotate(0deg);
+
+
+
+}
